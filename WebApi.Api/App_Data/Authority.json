@@ -1,0 +1,8 @@
+{
+   "AuthorityGlobal":{ 
+   "CookieName":"Authority",
+    "WhiteList":[],
+	"SkipSign":1,
+	"SecretKey":"85214796"
+	}
+}
